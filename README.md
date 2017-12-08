@@ -1,0 +1,1 @@
+## End to end testing setup for angular or javascript project
