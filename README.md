@@ -2,17 +2,18 @@
 
 ### Why testing is needed?
 
-As the web application increasing day by day. 
-But some of the does't work properly after launched. 
-After getting error we have to either rebuild it or find error and solve it. 
-It takes lots of time and money.
-So, there is the method which helps us to test our application 
-automatically aster setup in our project once.
+As the application increasing day by day with new features, a developer also have to face the errors.
+It slow down the business in market place an led to decrease our customers.
+In this situation we would not any choise. We have to fix it anyhow. 
+It takes lots of time and waste of money. Solution is o test our application in the development environment and on the live server.
+
+To do so, here is the method which helps us to test our application 
+automatically using protractor.
 
 
-Yes, ittakes time ti learn for testing and setup our project and it would be new 
-so new developers. But, somewere it helps us to make our application more reliable
-and saves lots of time and mony in future.
+Yes, it takes time to learn for testing and setup in our project and it would be new thing
+for a new developer. But, somewere it helps us to make our application more reliable
+and saves time & money.
 
 There are many ways to testing process like, beta testing 
 black box testing, which you can learn from google or any other officeal sites.
